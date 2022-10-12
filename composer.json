@@ -3,7 +3,7 @@
     "description": "Official Klarna REST PHP SDK",
     "homepage": "http://developers.klarna.com",
     "license": "Apache-2.0",
-    "type": "library",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Klarna AB"
