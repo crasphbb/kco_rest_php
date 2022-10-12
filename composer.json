@@ -19,7 +19,6 @@
             "Klarna\\Rest\\Tests\\": "tests/"
         }
     },
-    "minimum-stability": "stable",
     "require": {
         "php": ">=5.5.0",
         "guzzlehttp/guzzle": "~6.0|^7.0"
